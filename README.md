@@ -4,11 +4,7 @@ This Repository is maintained for the Capstone Project to be carried out as part
 
 The contributors for this repository would be:
 
-1. [Ramneet Kaur](https://github.com/embedded92)
-
-2. [Navjot Saini](https://github.com/Saininavjot)
-
-3. [Zain Rajani](https://github.com/zrajani)
+1. [Zain Rajani](https://github.com/zrajani)
 
 This Capstone Project would be guided under the supervision of [Dr. Mike Aleshams, Professor](https://github.com/mikeshams)
 
