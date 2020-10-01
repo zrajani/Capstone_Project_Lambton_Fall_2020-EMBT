@@ -18,8 +18,13 @@ This page shall be having folders relating to the Capstone Project which would b
 
 4. <b>Hardware</b>: Any Special Hardware related document or file would be present here.
 
-<h2>This repository is still on a way and will see many more updates in the future
   
-  ## i-LETTERBOX Description
+## i-LETTERBOX Description
   
 Letters are an important part of daily business. People receive letters either from the government offices for either tax payments, or approval of their loans and schemes etc. Thus people at times forget to check their mailboxes and some days people don’t get the mails at all. Thus, a system was needed where when any letter arrived for the user he/she must be notified or must be made aware of through some system.
+
+Thus during the span in the future we try to build and modify the existing system with the help of IR Sensor to count number of letters, LDR to reset the counter and GSM/ Cloud Service to update the user. A simplified block daigram can be seen which we will try to accomplish. 
+
+
+
+<h2>This repository is still on a way and will see many more updates in the future
