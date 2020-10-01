@@ -25,6 +25,6 @@ Letters are an important part of daily business. People receive letters either f
 
 Thus during the span in the future we try to build and modify the existing system with the help of IR Sensor to count number of letters, LDR to reset the counter and GSM/ Cloud Service to update the user. A simplified block daigram can be seen which we will try to accomplish. 
 
-
+<img src="https://github.com/zrajani/iLETTERBOX_CAPSTONE_PROJECT_EMBT_F2020/blob/master/Screenshot%20from%202020-09-28%2020-13-07.png" alt="Project Block Daigram">
 
 <h2>This repository is still on a way and will see many more updates in the future
