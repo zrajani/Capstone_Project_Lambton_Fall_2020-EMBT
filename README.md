@@ -29,6 +29,6 @@ Through this project we demonstrate the use of commnication protocols such as th
 
 The working can be explained/ learned using the animated picture below: 
 
-<img src="https://github.com/zrajani/iLETTERBOX_CAPSTONE_PROJECT_EMBT_F2020/blob/Personal/Group%208%20Creative%20Engineering%20Drawing.jpg" alt="Animated Project Working Image">
+<img src="https://github.com/zrajani/iLETTERBOX_CAPSTONE_PROJECT_EMBT_F2020/blob/master/Images/Group%208%20Creative%20Engineering%20Drawing.jpg" alt="Animated Project Working Image">
 
 <h4>This repository is still on a way and will see many more updates in the future
