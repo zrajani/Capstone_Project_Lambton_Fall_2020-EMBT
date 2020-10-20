@@ -47,5 +47,15 @@ To complete this capstone following Hardware and Software would be required (Cli
 9. [Soldering Kit with Multimeters, Cutters and other tools](https://elmwoodelectronics.ca/products/ladyadas-electronics-toolkit)
 10. [Few Resistors](https://elmwoodelectronics.ca/products/10969)
 
+### Software Required:
+
+1. [Latest Debian (Linux) Image for BB-AI](https://beagleboard.org/latest-images)
+2. [ThingsSpeak](https://thingspeak.com/)
+3. [Eclipse](https://www.eclipse.org/downloads/packages/release/luna/r/eclipse-ide-cc-developers)*
+4. [Linaro Compiler](https://www.linaro.org/downloads/)*
+
+<i>* It may be required if your performing cross toolchain that is programming and compiling on host and just transferring the output file to the target</i>
+
+### Programming Language Used: C/C++ along with Python (iff No C/C++ Language Support Avaliable)
 
 <h4>This repository is still on a way and will see many more updates in the future
