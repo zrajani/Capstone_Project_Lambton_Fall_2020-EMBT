@@ -8,13 +8,15 @@ This Capstone Project would be guided under the supervision of [Dr. Mike Alesham
 
 This page shall be having folders relating to the Capstone Project which would be as follows:
 
-1. <b>Presentation</b>: All Presentation files for demonstrating the project as well showcasing the project timeline
+1. <b>Presentation & Reports</b>: All Presentation files for demonstrating the project as well showcasing the project timeline along with final report for the project shall be present here.
 
-2. <b>Documentation</b>: Documentation of the various peripherals, sensors, software, etc. would be present here for reference
+2. <b>Project Proposal</b>: Series of the proposal were made before the final approval was given by the guide. One can find all version of proposal in this folder
 
 3. <b>Codes</b>: All the programming required for the Capstone shall be present here
 
 4. <b>Hardware</b>: Any Special Hardware related document or file would be present here.
+
+5. <b>Schematic Capture and PCB Design</b>: Schematics required for the project shall be uploaded in this folder and also the PCB design for the intended project
 
   
 ## i-LETTERBOX Description
