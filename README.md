@@ -25,7 +25,9 @@ Letters are an important part of daily business. People receive letters either f
 
 Thus during the span in the future we try to build and modify the existing system with the help of IR Sensor to count number of letters, LDR to reset the counter and GSM/ Cloud Service to update the user. A simplified block daigram can be seen which we will try to accomplish. 
 
+<p align="center">
 <img src="https://github.com/zrajani/iLETTERBOX_CAPSTONE_PROJECT_EMBT_F2020/blob/master/Images/Block_Daigram_Project_G8.jpg" alt="Project Block Daigram">
+ </p>
 
 Through this project we demonstrate the use of commnication protocols such as the IEEE 802.11 (WiFi), Serial GPIOs, Serial UART also using the Cloud service called as ThingsSpeak and the transfer the data to the cloud via the MQTT
 
