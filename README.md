@@ -25,7 +25,9 @@ Letters are an important part of daily business. People receive letters either f
 
 Thus during the span in the future we try to build and modify the existing system with the help of IR Sensor to count number of letters, LDR to reset the counter and GSM/ Cloud Service to update the user. A simplified block daigram can be seen which we will try to accomplish. 
 
+<p align="center">
 <img src="https://github.com/zrajani/iLETTERBOX_CAPSTONE_PROJECT_EMBT_F2020/blob/master/Images/Block_Daigram_Project_G8.jpg" alt="Project Block Daigram">
+ </p>
 
 Through this project we demonstrate the use of commnication protocols such as the IEEE 802.11 (WiFi), Serial GPIOs, Serial UART also using the Cloud service called as ThingsSpeak and the transfer the data to the cloud via the MQTT
 
@@ -38,7 +40,7 @@ The working can be explained/ learned using the animated picture below:
 To complete this capstone following Hardware and Software would be required (Click on them to see their appearance or incase if you wish to buy)
 
 ### Hardware Components:
-1. [BeagleBone AI](https://www.digikey.ca/en/products/detail/beagleboard.org/BBONE-AI/10671097?utm_adgroup=Evaluation%20Boards%20-%20Embedded%20-%20MCU%2C%20DSP&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Development%20Boards%2C%20Kits%2C%20Programmers&utm_term=&productid=10671097&gclid=CjwKCAjwlbr8BRA0EiwAnt4MTkTt1_1JnRZLH953GtVrp0cPBRGxzMy4_xfZWAYaFkrr11Gw9ickwRoCjPIQAvD_BwE)
+1. [BeagleBone Wireless (BB-WI)](https://www.digikey.ca/en/products/detail/ghi-electronics,-llc/BBBWL-SC-562/6211000?utm_adgroup=Evaluation%20Boards%20-%20Embedded%20%20MCU%2C%20DSP&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Development%20Boards%2C%20Kits%2C%20Programmers&utm_term=&productid=6211000&gclid=Cj0KCQjwit_8BRCoARIsAIx3Rj5jebJLNbDC-QvuHFgIUrFodQ5pvV5msC6oXZQIGB48GopAPSD_hT4aAnXmEALw_wcB)
 2. [Power Adapter Type C 5V,3A](https://www.amazon.ca/BENSN-Adapter-Replacement-Raspberry-Version/dp/B082Y3CSYW/ref=asc_df_B082Y3CSYW/?tag=googleshopc0c-20&linkCode=df0&hvadid=335455954923&hvpos=&hvnetw=g&hvrand=5608640327606492626&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000899&hvtargid=pla-919394702812&psc=1) <i>* Note: If you have a power adapter with 5V, 2A rating that would also work</i>
 3. [LED](https://www.digikey.ca/en/products/detail/rohm-semiconductor/SLR-56VR3F/636992?utm_adgroup=LED%20Indication%20-%20Discrete&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Optoelectronics&utm_term=&productid=636992&gclid=CjwKCAjw2dD7BRASEiwAWCtCbyIG4YZBKt0sgAISDEbtyR3n9TbIASLR2VqWdQLKDTC-MQSCeFqfYhoCQn0QAvD_BwE)
 4. [GSM SIM900 Ardiuno Sheild](https://www.amazon.ca/gp/product/B07XY79G56/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
