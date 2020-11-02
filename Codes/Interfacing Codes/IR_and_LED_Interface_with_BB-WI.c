@@ -20,7 +20,7 @@ int main()
   
   //Set the pin function either as input or output pins
   iolib_setdir(9,15,DigitalIn);
-  iolib_setdir(9,11,DigitalOut);
+  iolib_setdir(8,11,DigitalOut);
   
   //Setting initially output pin low 
   pin_low(8,11)         //P8.11 Low (0)
