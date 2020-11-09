@@ -26,4 +26,4 @@ def sendsms(number,text):
     ser.write(ascii.ctrl('z'))
 
 ## Function Called with suitable parameters sent
-sendsms('+16477868334','Alert! Patient Need attention')
+sendsms('+16477868334','Letter Arrived in the Box')
