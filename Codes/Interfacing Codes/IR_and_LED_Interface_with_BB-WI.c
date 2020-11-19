@@ -38,7 +38,8 @@ int main()
     }
     if (is_high(9,15))
     {
-      // If sensor detects no object do nothing
+      // If sensor detects no object do nothing get the LED resetted and the counter to 0
+      pin_low(8,11);
     }
   }
   
