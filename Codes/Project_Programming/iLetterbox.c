@@ -43,9 +43,10 @@ int main()
     // If no letter is sensed and there is darkness then
     if ((is_high(9,15)) && (is_high(9,41)))
     {
-      // If sensor detects no object do nothing only reset the counter if there is darkness also
+      // If sensor detects no object do nothing only reset the counter if there is darkness and send an alert for removal of the letters 
       counter=0;
       pin_low(8,11);
+      system("/usr/bin/python2.7 pysend.py"); 
     }
 
   }
