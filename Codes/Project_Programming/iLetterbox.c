@@ -45,6 +45,7 @@ int main()
     {
       // If sensor detects no object do nothing only reset the counter if there is darkness and send an alert for removal of the letters 
       counter=0;
+      printf("Counter Resetted # %d\n",counter);
       pin_low(8,11);
       system("/usr/bin/python2.7 pysend.py"); 
     }
