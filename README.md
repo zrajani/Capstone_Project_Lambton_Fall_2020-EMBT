@@ -62,4 +62,4 @@ To complete this capstone following Hardware and Software would be required (Cli
 
 ### Programming Language Used: C/C++ along with Python (iff No C/C++ Language Support Avaliable)
 
-<h4>This repository is still on a way and will see many more updates in the future
+<h4>This Project was sucessfully demonstrated on December 14, 2020 and completed on December 22, 2020 thus further on no updates will be made to codes unless required
