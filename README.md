@@ -60,9 +60,9 @@ To complete this capstone following Hardware and Software would be required (Cli
 
 <i>* It may be required if your performing cross toolchain that is programming and compiling on host and just transferring the output file to the target</i>
 
-### Programming Language Used: C/C++ along with Python (iff No C/C++ Language Support Avaliable)
+### Programming Language Used: C/C++ along with Python
 
-<b>This Project was sucessfully demonstrated on December 14, 2020 and completed on December 22, 2020 thus further on no updates will be made to codes unless required </b>
+This repository will be archived soon.
 
 ## Project Demonstration (Click on the Image to view the entire working)
 
